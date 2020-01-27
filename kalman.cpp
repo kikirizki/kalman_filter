@@ -1,7 +1,7 @@
 //
 // Created by robert on 24/01/20.
 //
-#include "../../include/detector/kalman.h"
+#include "kalman.h"
 
 KalmanFilter::KalmanFilter() {
     //TODO : Makesure the code below does not cause memoryleak
